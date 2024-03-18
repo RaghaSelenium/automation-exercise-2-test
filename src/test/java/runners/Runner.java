@@ -10,5 +10,5 @@ import org.junit.runner.RunWith;
         glue = {"stepDefinitions"},
         plugin = {"pretty","html:target/cucumber.html"},
         monochrome = true)
-public class CucumberTestRunner {
+public class Runner {
 }
